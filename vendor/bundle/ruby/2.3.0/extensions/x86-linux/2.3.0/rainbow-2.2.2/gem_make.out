@@ -1,0 +1,5 @@
+current directory: /home/jaime-hp/Escritorio/spree/vendor/bundle/ruby/2.3.0/gems/rainbow-2.2.2/ext
+/usr/bin/ruby2.3 mkrf_conf.rb
+
+current directory: /home/jaime-hp/Escritorio/spree/vendor/bundle/ruby/2.3.0/gems/rainbow-2.2.2/ext
+/usr/bin/ruby2.3 -rubygems /home/jaime-hp/Escritorio/spree/vendor/bundle/ruby/2.3.0/gems/rake-12.0.0/exe/rake RUBYARCHDIR=/home/jaime-hp/Escritorio/spree/vendor/bundle/ruby/2.3.0/extensions/x86-linux/2.3.0/rainbow-2.2.2 RUBYLIBDIR=/home/jaime-hp/Escritorio/spree/vendor/bundle/ruby/2.3.0/extensions/x86-linux/2.3.0/rainbow-2.2.2
